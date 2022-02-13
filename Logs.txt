@@ -1,0 +1,158 @@
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:12
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:15
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:18
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:21
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:24
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:27
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:30
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:08:33
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/edsa returned an ERROR in date: 12/02/2022 18:08:52
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/edsa returned an ERROR in date: 12/02/2022 18:08:54
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/edsa returned an ERROR in date: 12/02/2022 18:08:57
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/edsa returned an ERROR in date: 12/02/2022 18:09:00
+Parameters of config file are invalid at: 
+Parameters of config file are invalid at: 12/02/2022 18:24:52
+Error openning json file at: 12/02/2022 18:27:17
+Parameters of config file are invalid at: 12/02/2022 18:27:17
+regex config file format incorrect at: 
+regex config file format incorrect at: 12/02/2022 18:28:09
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:28:29
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:28:31
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:28:34
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 18:28:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:41:49
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:41:52
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:41:55
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:41:58
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:42:01
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:50:02
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:54:34
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 19:54:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:08:35
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:08:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:08:40
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:08:43
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:10:56
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:10:59
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:16:48
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:16:51
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:16:54
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:25:31
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:25:33
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:14
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:16
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:19
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:22
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:25
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:28
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:31
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:34
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:40
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 20:29:43
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:43:33
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:43:36
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:43:39
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:01
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:03
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:06
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:09
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:12
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:15
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:30
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:49:32
+Parameters of config file are invalid at: 12/02/2022 23:51:27
+Parameters of config file are invalid at: 12/02/2022 23:51:43
+Parameters of config file are invalid at: 12/02/2022 23:52:06
+Parameters of config file are invalid at: 12/02/2022 23:54:36
+Parameters of config file are invalid at: 12/02/2022 23:54:49
+Error openning json file at: 12/02/2022 23:55:00
+Parameters of config file are invalid at: 12/02/2022 23:55:00
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:55:17
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:55:20
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:55:23
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:55:26
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:58:28
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:58:31
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:58:34
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 12/02/2022 23:58:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:14:39
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:14:41
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:14:44
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:14:47
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:14:50
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:14:53
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:21:12
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:21:14
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:21:17
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:21:20
+Parameters of config file are invalid at: 13/02/2022 11:21:39
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:25:12
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:33
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:35
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:38
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:41
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:44
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:47
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:50
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:53
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:56
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:40:59
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:02
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:05
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:08
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:11
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:14
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:17
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:20
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:23
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:26
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:29
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:32
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:35
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:38
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:41
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:44
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:47
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:50
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:53
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:56
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:41:59
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:42:02
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:42:05
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:42:08
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:42:11
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:43:32
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:43:34
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:43:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:43:40
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 11:43:43
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 12:02:45
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 12:02:47
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 12:02:50
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 12:59:38
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 12:59:40
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:01:05
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:01:07
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:15:15
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:15:18
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:16:24
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:16:26
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:18:57
+Parameters of config file are invalid at: 13/02/2022 13:19:02
+Parameters of config file are invalid at: 13/02/2022 13:19:07
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/ttdsa returned an ERROR in date: 13/02/2022 13:19:20
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/ttdsa returned an ERROR in date: 13/02/2022 13:19:22
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:19:37
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:23:48
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:23:50
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:23:53
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 13:23:56
+regex config file format incorrect at: 13/02/2022 14:31:02
+regex URL format incorrect at: 13/02/2022 14:31:02
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 14:36:41
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 14:36:43
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 14:36:46
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 14:36:49
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 14:36:52
+Server https://prime-dsa-trial.docusign.net:8081/sapiws/v1/dsa is OK in date: 13/02/2022 14:36:55
